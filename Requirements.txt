@@ -1,0 +1,33 @@
+E-Commerce Sales Analysis and Prediction
+Requirements
+Software Requirements
+* Python 3.x
+* Google Colab or Jupyter Notebook
+* GitHub account
+Python Libraries
+* Pandas – Data loading, cleaning, and analysis
+* NumPy – Numerical operations
+* Matplotlib – Data visualization
+* Scikit-learn – Machine learning and model evaluation
+Machine Learning Models
+* Linear Regression
+* Polynomial Regression
+* Random Forest Regression
+Hardware Requirements
+* Computer/Laptop
+* Minimum 4 GB RAM
+* Internet connection for Google Colab and GitHub
+Dataset Requirements
+The project requires an e-commerce sales dataset containing information such as:
+* Order ID
+* Customer ID
+* Order Date
+* Product ID
+* Quantity
+* Discount
+* Payment Method
+* Customer details
+* Product details
+* Unit Price
+* Sales
+
